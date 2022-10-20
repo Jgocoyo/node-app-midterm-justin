@@ -1,0 +1,11 @@
+{
+  "name": "node--app--midterm-justine-gocoyo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JUSTINE GOCOYO",
+  "license": "ISC"
+}
